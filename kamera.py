@@ -12,7 +12,9 @@ face_cascade = cv2.CascadeClassifier(
 # label nama
 labels = {
     0: "galih",
-    1: "gilang"
+    1: "gilang",
+    2: "bening",
+    3: "fasyah"
 }
 
 cap = cv2.VideoCapture(0)

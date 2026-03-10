@@ -2,7 +2,7 @@ import cv2
 import os
 
 # nama orang
-nama = "bening"
+nama = "fasyah"
 
 # folder dataset
 path = "dataset/" + nama
